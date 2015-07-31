@@ -1,0 +1,2 @@
+[16-May-2015 02:06:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home1/indiainv/public_html/index.php:4) in /home1/indiainv/public_html/files.php on line 3
+[16-May-2015 02:06:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home1/indiainv/public_html/index.php:4) in /home1/indiainv/public_html/files.php on line 3
